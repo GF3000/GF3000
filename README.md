@@ -1,12 +1,12 @@
 
 - 👋 Hi!, I´m Guillermo Franco Gimeno
-- 👀 I´m studing 1st of Computer Engineering at UPM (Spain)
+- 👀 I´m studing 2nd of Computer Engineering at UPM (Spain)
 - 🌱 Each day I learn more and more so I´m in a constantly improving
 - 💞️ In love with Python and learning Java;
 - 📫 Email: guillermofrancogimeno@gmail.com
 -----------------------
 - 👋 Hola, soy Guillermo Franco Gimeno
-- 👀 Actualmente soy un estudiante de 1º de Ingeniería Informática en la UPM (España)
+- 👀 Actualmente soy un estudiante de 2º de Ingeniería Informática en la UPM (España)
 - 🌱 Cada día aprendo más, así que estoy en mejora constante
 - 💞️ Enamorado de Python y aprendiendo Java;
 - 📫 Correo: guillermofrancogimeno@gmail.com
