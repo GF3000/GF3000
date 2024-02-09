@@ -11,8 +11,6 @@
 - 💞️ Enamorado de Python, usando principalmente Java;
 - 📫 Correo: guillermofrancogimeno@gmail.com
 
-(texto)[enlace.com]
-
 
 <!---
 GF3000/GF3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
