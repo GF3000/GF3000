@@ -62,14 +62,16 @@ always learning
 
 | Project | Stack | Description |
 |---|---|---|
-| [TacticalBoard](https://github.com/GF3000/TacticalBoard) | Dart · Flutter | Handball tactical board app |
+| ⭐ [Eventum](https://eventum.dev) | Dart · Flutter · Firebase | Professional handball match tracking & analytics platform |
+| ⭐ [madrid-179](https://github.com/GF3000/madrid-179) | Python | Where to open offices across Madrid's 179 municipalities: explainable Bayesian network + GA²M. 🥉 3rd place at the [Datathon CAM](https://datathon-mad.sel.inf.uc3m.es/) |
+| ⭐ [MiAsistencia](https://github.com/GF3000/MiAsistencia) | Dart · Flutter · Firebase | Scalable sports-team session & attendance management with invite codes, QR join and live coach dashboard |
+| [HandBoard](https://github.com/GF3000/HandBoard) | Dart · Flutter | Handball tactical board app |
 | [PlyoMetrics](https://github.com/GF3000/PlyoMetrics) | Dart · Flutter | Plyometrics tracking & metrics app |
 | [CopilotCanvas](https://github.com/GF3000/CopilotCanvas) | JavaScript | Copilot draws, you explore. Both stay in sync. |
 | [Analisis-RFEBM](https://github.com/GF3000/Analisis-RFEBM) | Python | RFEBM (Spanish Handball Federation) data analysis |
 | [SHStats](https://github.com/GF3000/SHStats) | Python | Web-scraping tool for Spanish handball match data |
 | [PrivacyAware](https://github.com/GF3000/PrivacyAware) | TypeScript | Privacy-aware web application |
 | [SokobanMVC](https://github.com/GF3000/SokobanMVC) | Java | Sokoban game built with the MVC pattern |
-| [SrcriptSegTI](https://github.com/GF3000/SrcriptSegTI) | Python | Security scripts (Seguridad de las TI, UPM) |
 
 ---
 
@@ -99,11 +101,13 @@ aprendiendo siempre
 
 ### 🚀 Proyectos
 
-- **[TacticalBoard](https://github.com/GF3000/TacticalBoard)** — Pizarra táctica de balonmano · Dart / Flutter
+- ⭐ **[Eventum](https://eventum.dev)** — Plataforma profesional de registro y análisis de partidos de balonmano · Dart / Flutter / Firebase
+- ⭐ **[madrid-179](https://github.com/GF3000/madrid-179)** — Dónde abrir oficinas en los 179 municipios de la Comunidad de Madrid: red bayesiana explicable + GA²M. 🥉 3er puesto en el [Datathon CAM](https://datathon-mad.sel.inf.uc3m.es/) · Python
+- ⭐ **[MiAsistencia](https://github.com/GF3000/MiAsistencia)** — Gestión escalable de sesiones y asistencia de equipos deportivos, con códigos de invitación, QR y panel del entrenador en vivo · Dart / Flutter / Firebase
+- **[HandBoard](https://github.com/GF3000/HandBoard)** — Pizarra táctica de balonmano · Dart / Flutter
 - **[PlyoMetrics](https://github.com/GF3000/PlyoMetrics)** — Seguimiento y métricas de pliometría · Dart / Flutter
 - **[CopilotCanvas](https://github.com/GF3000/CopilotCanvas)** — Copilot dibuja, tú exploras · JavaScript
 - **[Analisis-RFEBM](https://github.com/GF3000/Analisis-RFEBM)** — Análisis de datos de la RFEBM · Python
 - **[SHStats](https://github.com/GF3000/SHStats)** — Web scraping de datos de partidos de balonmano en España · Python
 - **[PrivacyAware](https://github.com/GF3000/PrivacyAware)** — Aplicación web orientada a la privacidad · TypeScript
 - **[SokobanMVC](https://github.com/GF3000/SokobanMVC)** — Juego Sokoban con patrón MVC · Java
-- **[SrcriptSegTI](https://github.com/GF3000/SrcriptSegTI)** — Scripts de Seguridad de las TI (UPM) · Python
